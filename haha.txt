@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hehooikdopajdad
 
+=======
+hehooiiihl
+>>>>>>> 0d4906b (3.0)
